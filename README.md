@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# KAMO030（Kamosama）
-![](https://github-readme-stats.vercel.app/api?username=KAMO030&count_private=true&show_icons=true&locale=cn&include_all_commits=true&show_owner=true) 
+# 次音
+![](https://github-readme-stats.vercel.app/api?username=Ci-Yin&count_private=true&show_icons=true&locale=cn&include_all_commits=true&show_owner=true) 
 ###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KAMO030&hide=css,html&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ci-Yin&hide=css,html&layout=compact&langs_count=8)

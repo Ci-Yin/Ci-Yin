@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 # 次音
 ![](https://github-readme-stats.vercel.app/api?username=Ci-Yin&count_private=true&show_icons=true&locale=cn&include_all_commits=true&show_owner=true) 
 ###
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ci-Yin&hide=css,html&layout=compact&langs_count=8&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ci-Yin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
